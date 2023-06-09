@@ -6,6 +6,9 @@ contributor:
     alias: Welby, Frances Alice
     gutenberg_agent_id: '31198'
     url: http://www.gutenberg.org/2009/agents/31198
+covers:
+- cover_type: archival
+  image_path: 70911-h/images/cover.jpg
 creator:
   author:
     agent_name: Ribot, Th. (Théodule)
@@ -21,6 +24,8 @@ creator:
     - https://en.wikipedia.org/wiki/Th%C3%A9odule-Armand_Ribot
     - https://fr.wikipedia.org/wiki/Th%C3%A9odule-Armand_Ribot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70911#The-evolution-of-general-ideas
 gutenberg_issued: '2023-06-04'
 identifiers:
   gutenberg: '70911'
